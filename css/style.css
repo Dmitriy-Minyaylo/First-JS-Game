@@ -1,3 +1,6 @@
+body {
+    background: rgb(158, 142, 142);
+}
 #game {
     background-image: url(../img/xbox1.jpg);
     top: 100px;
